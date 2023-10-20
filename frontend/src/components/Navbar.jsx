@@ -10,6 +10,9 @@ const Navbar = () => {
         <li>
           <Link to='/characters'>All characters</Link>
         </li>
+        <li>
+          <Link to='/characters/new'>Create a new character</Link>
+        </li>
       </ul>
     </nav>
   )
